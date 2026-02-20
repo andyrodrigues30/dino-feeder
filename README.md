@@ -1,6 +1,6 @@
 # Natural History Museum | Dino Feeder
 
-View the working digital solution at: https://andyrodrigues30.github.io/dino_feeder/
+View the working digital solution at: https://andyrodrigues30.github.io/dino-feeder/
 
 After playing please leave feedback at: https://forms.gle/aKVV4KcnK6dSKVzD8/
 
